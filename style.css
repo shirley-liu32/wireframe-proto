@@ -1,0 +1,73 @@
+.box{
+  border: 2px solid black;
+  float: left;
+
+}
+#nav{
+  height: 100px;
+  width: 74%;
+  float: left;
+  border-left: none;
+}
+#logo{
+  height: 100px;
+  width: 25%;
+  float: left;
+  line-height: 60px;
+}
+#project{
+  height: 70px;
+  width: 74%;
+  float: left;
+  border-top: none;
+}
+#badges{
+  height: 70px;
+  width: 25%;
+  float: left;
+  border-left: none;
+  border-top: none;
+}
+#main{
+  width: 74%;
+  height: 500px;
+  float: left;
+  border-top: none;
+  line-height: 500px;
+}
+#star{
+  height: 200px;
+  width: 25%;
+  float: left;
+  border-left: none;
+  border-top: none;
+}
+#act1, #act2, #act3, #act4{
+  float: left;
+  height: 73px;
+  width: 25%;
+  border-top: none;
+  border-left: none;
+}
+#discussion{
+  width: 74%;
+  height: 200px;
+  float: left;
+  border-top: none;
+  line-height: 200px;
+}
+#poll{
+  height: 200px;
+  width: 25%;
+  float: left;
+  border-left: none;
+  border-top: none;
+  line-height: 200px;
+}
+div.clear {
+  clear: both;
+}
+body{
+  text-align: center;
+  text-transform: uppercase;
+}
